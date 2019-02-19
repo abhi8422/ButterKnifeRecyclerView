@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButterKnifeRecyclerView</string>
+    <string name="title_activity_student_item">Student_item</string>
+</resources>
